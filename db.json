@@ -1,0 +1,59 @@
+{
+  "employees": [
+    {
+      "name": "TrúcNGuyen ",
+      "age": "29",
+      "phone": "0901234567",
+      "country": "Vietnam",
+      "isAvailable": true,
+      "avatar": "https://i.pravatar.cc/150?u=1",
+      "id": "1"
+    },
+    {
+      "id": "3",
+      "name": "Le Hoang Minh ",
+      "age": 25,
+      "phone": "0923456789",
+      "country": "Vietnam",
+      "isAvailable": true,
+      "avatar": "https://i.pravatar.cc/150?u=3"
+    },
+    {
+      "id": "4",
+      "name": "John Smith",
+      "age": 35,
+      "phone": "+1-555-0101",
+      "country": "USA",
+      "isAvailable": true,
+      "avatar": "https://i.pravatar.cc/150?u=4"
+    },
+    {
+      "id": "5",
+      "name": "Tanaka Yuki",
+      "age": 29,
+      "phone": "+81-90-1234-5678",
+      "country": "Japan",
+      "isAvailable": false,
+      "avatar": "https://i.pravatar.cc/150?u=5"
+    },
+    {
+      "name": "kk Truc",
+      "age": "20",
+      "phone": "0394084336",
+      "country": "Vietnam",
+      "isAvailable": true,
+      "avatar": "https://i.pravatar.cc/150?u=5",
+      "id": "SYrKEeWhTOM"
+    },
+    {
+      "name": "hehe",
+      "age": "18",
+      "phone": "0394084336",
+      "country": "Vietnam",
+      "isAvailable": false,
+      "avatar": "https://i.pravatar.cc/150?u=5",
+      "id": "evg7MchTSmA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
