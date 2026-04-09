@@ -21,7 +21,6 @@ const io = new Server(httpServer, {
 });
 
 app.use(cors());
-app.use(express.json());
 
 const router = jsonServer.router(path.join(__dirname, "db.json"));
 const middlewares = jsonServer.defaults();

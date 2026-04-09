@@ -1,7 +1,7 @@
 {
   "employees": [
     {
-      "name": "TrúcNGuyen ",
+      "name": "Trúc",
       "age": "29",
       "phone": "0901234567",
       "country": "Vietnam",
@@ -35,24 +35,6 @@
       "country": "Japan",
       "isAvailable": false,
       "avatar": "https://i.pravatar.cc/150?u=5"
-    },
-    {
-      "name": "kk Truc",
-      "age": "20",
-      "phone": "0394084336",
-      "country": "Vietnam",
-      "isAvailable": true,
-      "avatar": "https://i.pravatar.cc/150?u=5",
-      "id": "SYrKEeWhTOM"
-    },
-    {
-      "name": "hehe",
-      "age": "18",
-      "phone": "0394084336",
-      "country": "Vietnam",
-      "isAvailable": false,
-      "avatar": "https://i.pravatar.cc/150?u=5",
-      "id": "evg7MchTSmA"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
